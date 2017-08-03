@@ -1,0 +1,396 @@
+# Copyright (C) 2010 DiveBook
+# This file is distributed under the same license as the DiveBook package.
+msgid ""
+msgstr ""
+"Project-Id-Version: DiveBook 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/divebook\n"
+"POT-Creation-Date: 2011-01-12 00:24:29+00:00\n"
+"PO-Revision-Date: 2011-02-20 10:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: settings.php:34
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: settings.php:97
+msgid "You do not have sufficient permissions to access this page."
+msgstr "U bent niet berechtigd deze pagina te bekijken."
+
+#: settings.php:102
+msgid "DiveBook"
+msgstr "DiveBook"
+
+#: settings.php:105
+msgid "DiveBook General Settings"
+msgstr "DiveBook Algemene Instellingen"
+
+#: settings.php:108,111
+msgid "Only Administrator can add dives"
+msgstr "Alleen de beheerder kan duiken toevoegen"
+
+#: settings.php:113
+msgid "If checked only the Adminstrator can add dives"
+msgstr "Indien aangevinkt kan alleen de beheerder duiken toevoegen"
+
+#: settings.php:116,119
+msgid "Administrator can delete and edit all dives"
+msgstr "Beheerder kan alle duiken wijzigen en verwijderen"
+
+#: settings.php:121
+msgid "If checked the Administrator can delete and edit all dives"
+msgstr "Indien aangevinkt kan de beheerder alle duiken wijzigen en verwijderen"
+
+#: settings.php:124,127
+msgid "Administrator can add dives on behalf of other users"
+msgstr "Beheerder kan namens anderen duiken toevoegen"
+
+#: settings.php:129
+msgid "If checked the Administrator can add dives on behalf of other users"
+msgstr "Indien aangevinkt kan de beheerder namens anderen duiken toevoegen"
+
+#: settings.php:132,135
+msgid "Show page navigator for divelog"
+msgstr "Toon paginanavigatie voor duikerslog"
+
+#: settings.php:137
+msgid "If checked page navigation in divelog will be enabled. If not all dives will be displayed on one page"
+msgstr "Indien aangevinkt zal paginanavigatie geactiveerd worden. Indien uitgevinkt zullen alle duiken op één pagina getoond worden"
+
+#: settings.php:141
+msgid "dives displayed per page in divelog"
+msgstr "duiken worden weergegeven per pagina"
+
+#: settings.php:146,149
+msgid "Display filter for divelog"
+msgstr "Filter voor duikerslog weergeven"
+
+#: settings.php:151
+msgid "If checked the filter (diver and dive site) will be displayed"
+msgstr "Indien aangevinkt zal de filter (duiker en duikstek) worden weergegeven"
+
+#: settings.php:155,158
+msgid "Display login link"
+msgstr "Login mogelijkheid weergeven"
+
+#: settings.php:160
+msgid "If checked login link will be displayed if user is not logged in"
+msgstr "Indien aangevinkt zal de login mogelijkheid worden weergegeven als de gebruiker nog niet is aangemeld"
+
+#: settings.php:163,166
+msgid "Display register link"
+msgstr "Registreer mogelijkheid weergeven"
+
+#: settings.php:168
+msgid "If checked register link will be displayed if user is not logged in"
+msgstr "Indien aangevinkt zal de registreer mogelijkheid worden weergegeven als de gebruiker nog niet is aangemeld"
+
+#: settings.php:171,174
+msgid "Show credits"
+msgstr "Toon credits"
+
+#: settings.php:178,181
+msgid "Include donate button with credits"
+msgstr "Donatieknop met credits tonen"
+
+#: settings.php:183
+msgid "If checked credits will be displayed under the divelog"
+msgstr "Indien aangevinkt zal de credits worden weergegeven onder de duikerslog"
+
+#: settings.php:186
+msgid "Update Options"
+msgstr "Instellingen bijwerken"
+
+#: settings.php:198
+msgid "Inspire me to continue developing the DiveBook plugin"
+msgstr "Geef me een motivatie om deze plugin verder te ontwikkelen"
+
+#: viewdive.php:15
+msgid "View dive"
+msgstr "Bekijk duik"
+
+#: viewdive.php:22
+#: divelog.php:125,214
+msgid "Diver"
+msgstr "Duiker"
+
+#: viewdive.php:25
+msgid "Date (YYYY-MM-DD)"
+msgstr "Datum (YYYY-MM-DD)"
+
+#: viewdive.php:30
+#: divelog.php:129,222
+msgid "Dive site"
+msgstr "Duikstek"
+
+#: viewdive.php:33
+#: diveinputform.php:155
+msgid "GPS position"
+msgstr "GPS locatie"
+
+#: viewdive.php:38
+msgid "Max depth (in meters)"
+msgstr "max diepte (in meters)"
+
+#: viewdive.php:41
+msgid "Dive time (in minutes)"
+msgstr "Duiktijd (in minuten)"
+
+#: viewdive.php:46
+#: diveinputform.php:168
+msgid "Water temperature (in Celsius)"
+msgstr "Water temperatuur (in graden Celsius)"
+
+#: viewdive.php:49
+#: diveinputform.php:171
+msgid "Dive buddies"
+msgstr "Duikbuddies"
+
+#: viewdive.php:54
+#: diveinputform.php:176
+msgid "Visibility (by scale)"
+msgstr "Zicht (in termen)"
+
+#: viewdive.php:57
+#: diveinputform.php:187
+msgid "Visibility (in meters)"
+msgstr "Zicht (in meters)"
+
+#: viewdive.php:67
+#: diveinputform.php:197
+msgid "Description"
+msgstr "Opmerkingen"
+
+#: viewdive.php:73
+msgid "Close"
+msgstr "Sluiten"
+
+#: divestats.php:40
+msgid "DiveBook Statistics"
+msgstr "Duikerslog statistieken"
+
+#: divestats.php:41
+msgid "Facts"
+msgstr "Feiten"
+
+#: divestats.php:46
+msgid "Total number of dives"
+msgstr "Totaal aantal duiken"
+
+#: divestats.php:50
+msgid "Total number of divers"
+msgstr "Totaal aantal duikers"
+
+#: divestats.php:54
+msgid "Average max depth"
+msgstr "Gemiddelde maximale diepte"
+
+#: divestats.php:55
+msgid " meters"
+msgstr " meter"
+
+#: divestats.php:58
+msgid "Average dive time"
+msgstr "Gemiddelde duiktijd"
+
+#: divestats.php:59
+#: widget.php:51
+msgid " minutes"
+msgstr " minuten"
+
+#: divelog.php:121
+msgid "Date"
+msgstr "Datum"
+
+#: divelog.php:133
+msgid "Depth"
+msgstr "Diepte"
+
+#: divelog.php:137
+msgid "Dive time"
+msgstr "Duiktijd"
+
+#: divelog.php:139
+msgid "Action"
+msgstr "Actie"
+
+#: divelog.php:177
+msgid "View"
+msgstr "Bekijken"
+
+#: divelog.php:179
+msgid "Edit"
+msgstr "Bewerken"
+
+#: divelog.php:180
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: divelog.php:207
+msgid "Filter dives"
+msgstr "Filter duiken"
+
+#: divelog.php:196
+msgid "All divers"
+msgstr "Alle duikers"
+
+#: divelog.php:231
+msgid "Filter"
+msgstr "Filter"
+
+#: divelog.php:247
+msgid "Displaying %1$d out of %2$d dive"
+msgstr "Duik %1$d van %2$d getoond"
+
+#: divelog.php:247
+msgid "Displaying %1$d out of %2$d dives"
+msgstr "%1$d van de %2$d duiken getoond"
+
+#: divelog.php:250
+msgid "First"
+msgstr "Eerste"
+
+#: divelog.php:253
+msgid "Prev"
+msgstr "Vorige"
+
+#: divelog.php:259
+msgid "Next"
+msgstr "Volgende"
+
+#: divelog.php:262
+msgid "Last"
+msgstr "Laatste"
+
+#: divelog.php:274
+#: diveinputform.php:177
+msgid "Not selected"
+msgstr "Niet geselecteerd"
+
+#: divelog.php:276
+#: diveinputform.php:178
+msgid "Amazing"
+msgstr "Geweldig"
+
+#: divelog.php:278
+#: diveinputform.php:179
+msgid "Great"
+msgstr "Prima"
+
+#: divelog.php:280
+#: diveinputform.php:180
+msgid "Good"
+msgstr "Goed"
+
+#: divelog.php:282
+#: diveinputform.php:181
+msgid "OK"
+msgstr "OK"
+
+#: divelog.php:284
+#: diveinputform.php:182
+msgid "Bad"
+msgstr "Slecht"
+
+#: divelog.php:286
+#: diveinputform.php:183
+msgid "Could not see a thing"
+msgstr "Geen moer te zien"
+
+#: widget.php:38
+msgid "Go to DiveBook"
+msgstr "Ga naar het duikerslog"
+
+#: widget.php:43
+msgid "Diver: "
+msgstr "Duiker:"
+
+#: widget.php:45
+msgid "Site: "
+msgstr "Duikstek:"
+
+#: widget.php:49
+msgid " meters  "
+msgstr " meter  "
+
+#: widget.php:82
+msgid "Title:"
+msgstr "Titel:"
+
+#: widget.php:85
+msgid "Number of dives to display:"
+msgstr "Aantal weer te geven duiken:"
+
+#: widget.php:88
+msgid "Link to DiveBook:"
+msgstr "Link naar het duikerslog:"
+
+#: diveinputform.php:46
+msgid "You must "
+msgstr "Je moet je "
+
+#: diveinputform.php:46
+msgid "log in"
+msgstr "inloggen"
+
+#: diveinputform.php:46
+msgid " to be able to log dives."
+msgstr " om duiken te kunnen loggen."
+
+#: diveinputform.php:49
+msgid "It is easy to "
+msgstr "Het is eenvoudig om je te "
+
+#: diveinputform.php:49
+msgid "register"
+msgstr "registreren"
+
+#: diveinputform.php:49
+msgid " as a user."
+msgstr " als een gebruiker."
+
+#: diveinputform.php:116
+msgid "Add a new dive"
+msgstr "Duik toevoegen"
+
+#: diveinputform.php:124
+msgid "Log a Dive"
+msgstr "Nieuwe duik loggen"
+
+#: diveinputform.php:131
+msgid "Diver *"
+msgstr "Duiker *"
+
+#: diveinputform.php:146
+msgid "Date *"
+msgstr "Datum *"
+
+#: diveinputform.php:152
+msgid "Dive site *"
+msgstr "Duikstek *"
+
+#: diveinputform.php:160
+msgid "Max depth (in meters) *"
+msgstr "Max diepte (in meters) *"
+
+#: diveinputform.php:163
+msgid "Dive time (in minutes) *"
+msgstr "Duiktijd (in minuten) *"
+
+#: diveinputform.php:203
+msgid "Log Dive"
+msgstr "Duik loggen"
+
+#: diveinputform.php:203
+msgid "Edit dive"
+msgstr "Bijwerken"
+
+#: diveinputform.php:203
+msgid "Cancel"
+msgstr "Annuleren"
+
+#~ msgid "DiveBook Settings"
+#~ msgstr "DiveBook Instellingen"

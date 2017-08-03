@@ -1,0 +1,104 @@
+#divebook-input table, #viewdive table, #divelog-filter table {
+	font: 85% "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
+	padding: 0;
+	margin: 0;
+	border-collapse: collapse;
+	border: none;
+	color: #333;
+	background: #F3F5F7;
+	width: 100%;
+}
+
+#divelog-filter table{
+	width: 100%;
+}
+
+#divebook-input table a, #viewdive table a, #divelog-filter table a {
+	color: #3A4856;
+	text-decoration: none;
+	border-bottom: 1px solid #C6C8CB;
+}
+
+#divebook-input table a:visited, #viewdive table a:visited, #divelog-filter table a:visited {
+	color: #777;
+}
+
+#divebook-input table a:hover, #viewdive table a:hover, #divelog-filter table a:hover {
+	color: #000;
+}
+
+#divebook-input table thead th, #viewdive table thead th, #divelog-filter table thead th {
+	background: #3A4856;
+	padding: 15px 10px;
+	color: #fff;
+	text-align: left;
+	font-weight: normal;
+	font-size: 18px;
+}
+
+#divebook-input table tbody, #viewdive table tbody, #divelog-filter table tbody {
+	border-bottom: none;
+}
+
+#divebook-input table tbody td, #divebook-input table tbody th, #viewdive table tbody td, #viewdive table tbody th, #divelog-filter table tbody td, #divelog-filter table tbody th {
+	border: none;
+	padding-top: 5px;
+	padding-bottom: 1px;
+	font-size: 16px;
+}
+
+#divebook-input table tbody td, #viewdive table tbody td, #divelog-filter table tbody td {
+	padding: 5px 10px;
+}
+
+#divebook-input table tbody tr, #viewdive table tbody tr, #divelog-filter table tbody tr {
+	background: #F3F5F7;
+	border: none;
+    padding: 5px 10px;
+}
+
+#divebook-input label, #divebook-input input, #divebook-input textarea, #divebook-input select, #viewdive label, #viewdive input, #viewdive textarea, #viewdive select, #divelog-filter label, #divelog-filter input, #divelog-filter textarea, #divelog-filter select {
+	font-family: "Lucida Grande","Lucida Sans Unicode", "Trebuchet MS", sans-serif;
+	font-size: 100%;
+	font-weight: normal;
+	font-style: normal;
+	color: #333;
+	width: 95%;
+}
+
+#divebook-input input, #divebook-input textarea, #viewdive input, #viewdive textarea, #divelog-filter input, #divelog-filter textarea {
+	background: #FFFFFF;
+	padding: 1px;
+	border: 1px solid #CCCCCC;
+	-moz-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1) inset;
+}
+
+#divebook-input select, #viewdive select, #divelog-filter select {
+	height: 25px;
+}
+
+#divebook-input textarea, #viewdive textarea {
+	height: 100px; width: 97%;
+}
+
+#divebook-input input, #viewdive input, #divelog-filter input, #divebook-input select, #divelog-filter select {
+	margin: 0 0 5px;
+}
+
+#divebook-input, #viewdive, #divelog-filter {
+    z-index: 99999;
+    font-size: 16px;
+}
+
+#backgroundPopup, #background-viewdive {
+	display:none;
+	position:fixed;
+	_position:absolute; /* hack for internet explorer 6*/
+	height:100%;
+	width:100%;
+	top:0;
+	left:0;
+	background:#000000;
+	border:1px solid #cecece;
+	z-index:99998;
+}

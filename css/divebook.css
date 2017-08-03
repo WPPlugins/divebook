@@ -1,0 +1,116 @@
+
+#divelog {font-size: 16px;}
+
+#divelog table {
+    font: 85% "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
+    padding: 0;
+    margin: 0;
+    border-collapse: collapse;
+    color: #333;
+    background: #F3F5F7;
+    width: 100%;
+    table-layout: fixed;
+}
+
+#divelog table a {color: #3A4856; text-decoration: none; border-bottom: 1px solid #C6C8CB;}
+
+#divelog table a:visited {color: #777;}
+
+#divelog table a:hover {color: #000;}
+
+#divelog table thead th {background: #3A4856; padding: 15px 10px; color: #fff; text-align: left; font-weight: normal; font-size: 15px;}
+
+#divelog table tbody {border-bottom: 1px solid #EAECEE;}
+
+#divelog table tbody td, #divelog table tbody th {
+    padding: 10px;
+    background: url("../images/td_back.gif") repeat-x;
+    text-align: left;
+    font: 16px, "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
+    color: #333;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+
+#divelog_orderby {
+    cursor: pointer;
+}
+
+#divelog_orderby_text {
+    text-decoration: underline;
+}
+
+#pagebrowser table {
+    font: 85% "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
+    padding: 0;
+    margin: 0;
+    border-collapse: collapse;
+    color: #333;
+    background: #F3F5F7;
+    width: 100%;
+}
+
+#pagebrowser table tbody td {
+    width: auto;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    margin-right: 1px;
+    margin-left: 1px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+
+#page_first, #page_prev, #page_next, #page_last {
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 14px;
+    font-weight: normal;
+    font-variant: normal;
+    color: blue;
+}
+
+#page_last, #page_prev {
+    text-align: left;
+}
+
+#page_first, #page_next {
+    text-align: right;
+}
+
+#page_number {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+#displayed-dives {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: lighter;
+    font-variant: normal;
+    color: black;
+}
+
+#divelog table tbody tr {background: #F3F5F7;}
+
+#divelog table tbody tr.odd {background: #F0F2F4;}
+
+#divelog label, #divelog input, #divelog textarea {font: "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif; color: #333; width: 95%}
+
+
+p#divebook {
+    font-size: 16px;
+}
+
+p#divebook-creds {
+    font-size: 12px;
+    text-align: center;
+}
+
+a#dive {cursor: pointer;}

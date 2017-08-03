@@ -1,0 +1,377 @@
+# Copyright (C) 2010 DiveBook
+# This file is distributed under the same license as the DiveBook package.
+msgid ""
+msgstr ""
+"Project-Id-Version: DiveBook 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/divebook\n"
+"POT-Creation-Date: 2011-01-12 00:24:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: settings.php:34
+msgid "Settings saved."
+msgstr ""
+
+#: settings.php:97
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: settings.php:102
+msgid "DiveBook"
+msgstr ""
+
+#: settings.php:105
+msgid "DiveBook General Settings"
+msgstr ""
+
+#: settings.php:108,111
+msgid "Only Administrator can add dives"
+msgstr ""
+
+#: settings.php:113
+msgid "If checked only the Adminstrator can add dives"
+msgstr ""
+
+#: settings.php:116,119
+msgid "Administrator can delete and edit all dives"
+msgstr ""
+
+#: settings.php:121
+msgid "If checked the Administrator can delete and edit all dives"
+msgstr ""
+
+#: settings.php:124,127
+msgid "Administrator can add dives on behalf of other users"
+msgstr ""
+
+#: settings.php:129
+msgid "If checked the Administrator can add dives on behalf of other users"
+msgstr ""
+
+#: settings.php:132,135
+msgid "Show page navigator for divelog"
+msgstr ""
+
+#: settings.php:137
+msgid "If checked page navigation in divelog will be enabled. If not all dives will be displayed on one page"
+msgstr ""
+
+#: settings.php:141
+msgid "dives displayed per page in divelog"
+msgstr ""
+
+#: settings.php:146,149
+msgid "Display filter for divelog"
+msgstr ""
+
+#: settings.php:151
+msgid "If checked the filter (diver and dive site) will be displayed"
+msgstr ""
+
+#: settings.php:155,158
+msgid "Display login link"
+msgstr ""
+
+#: settings.php:160
+msgid "If checked login link will be displayed if user is not logged in"
+msgstr ""
+
+#: settings.php:163,166
+msgid "Display register link"
+msgstr ""
+
+#: settings.php:168
+msgid "If checked register link will be displayed if user is not logged in"
+msgstr ""
+
+#: settings.php:171,174
+msgid "Show credits"
+msgstr ""
+
+#: settings.php:178,181
+msgid "Include donate button with credits"
+msgstr ""
+
+#: settings.php:183
+msgid "If checked credits will be displayed under the divelog"
+msgstr ""
+
+#: settings.php:186
+msgid "Update Options"
+msgstr ""
+
+#: settings.php:198
+msgid "Inspire me to continue developing the DiveBook plugin"
+msgstr ""
+
+#: viewdive.php:15
+msgid "View dive"
+msgstr ""
+
+#: viewdive.php:22 divelog.php:125,214
+msgid "Diver"
+msgstr ""
+
+#: viewdive.php:25
+msgid "Date (YYYY-MM-DD)"
+msgstr ""
+
+#: viewdive.php:30 divelog.php:129,222
+msgid "Dive site"
+msgstr ""
+
+#: viewdive.php:33 diveinputform.php:155
+msgid "GPS position"
+msgstr ""
+
+#: viewdive.php:38
+msgid "Max depth (in meters)"
+msgstr ""
+
+#: viewdive.php:41
+msgid "Dive time (in minutes)"
+msgstr ""
+
+#: viewdive.php:46 diveinputform.php:168
+msgid "Water temperature (in Celsius)"
+msgstr ""
+
+#: viewdive.php:49 diveinputform.php:171
+msgid "Dive buddies"
+msgstr ""
+
+#: viewdive.php:54 diveinputform.php:176
+msgid "Visibility (by scale)"
+msgstr ""
+
+#: viewdive.php:57 diveinputform.php:187
+msgid "Visibility (in meters)"
+msgstr ""
+
+#: viewdive.php:67 diveinputform.php:197
+msgid "Description"
+msgstr ""
+
+#: viewdive.php:73
+msgid "Close"
+msgstr ""
+
+#: divestats.php:40
+msgid "DiveBook Statistics"
+msgstr ""
+
+#: divestats.php:41
+msgid "Facts"
+msgstr ""
+
+#: divestats.php:46
+msgid "Total number of dives"
+msgstr ""
+
+#: divestats.php:50
+msgid "Total number of divers"
+msgstr ""
+
+#: divestats.php:54
+msgid "Average max depth"
+msgstr ""
+
+#: divestats.php:55
+msgid " meters"
+msgstr ""
+
+#: divestats.php:58
+msgid "Average dive time"
+msgstr ""
+
+#: divestats.php:59 widget.php:51
+msgid " minutes"
+msgstr ""
+
+#: divelog.php:121
+msgid "Date"
+msgstr ""
+
+#: divelog.php:133
+msgid "Depth"
+msgstr ""
+
+#: divelog.php:137
+msgid "Dive time"
+msgstr ""
+
+#: divelog.php:139
+msgid "Action"
+msgstr ""
+
+#: divelog.php:177
+msgid "View"
+msgstr ""
+
+#: divelog.php:179
+msgid "Edit"
+msgstr ""
+
+#: divelog.php:180
+msgid "Delete"
+msgstr ""
+
+#: divelog.php:207
+msgid "Filter dives"
+msgstr ""
+
+#: divelog.php:196
+msgid "All divers"
+msgstr ""
+
+#: divelog.php:231
+msgid "Filter"
+msgstr ""
+
+#: divelog.php:247
+msgid "Displaying %1$d out of %2$d dive"
+msgstr ""
+
+#: divelog.php:247
+msgid "Displaying %1$d out of %2$d dives"
+msgstr ""
+
+#: divelog.php:250
+msgid "First"
+msgstr ""
+
+#: divelog.php:253
+msgid "Prev"
+msgstr ""
+
+#: divelog.php:259
+msgid "Next"
+msgstr ""
+
+#: divelog.php:262
+msgid "Last"
+msgstr ""
+
+#: divelog.php:274 diveinputform.php:177
+msgid "Not selected"
+msgstr ""
+
+#: divelog.php:276 diveinputform.php:178
+msgid "Amazing"
+msgstr ""
+
+#: divelog.php:278 diveinputform.php:179
+msgid "Great"
+msgstr ""
+
+#: divelog.php:280 diveinputform.php:180
+msgid "Good"
+msgstr ""
+
+#: divelog.php:282 diveinputform.php:181
+msgid "OK"
+msgstr ""
+
+#: divelog.php:284 diveinputform.php:182
+msgid "Bad"
+msgstr ""
+
+#: divelog.php:286 diveinputform.php:183
+msgid "Could not see a thing"
+msgstr ""
+
+#: widget.php:38
+msgid "Go to DiveBook"
+msgstr ""
+
+#: widget.php:43
+msgid "Diver: "
+msgstr ""
+
+#: widget.php:45
+msgid "Site: "
+msgstr ""
+
+#: widget.php:49
+msgid " meters  "
+msgstr ""
+
+#: widget.php:82
+msgid "Title:"
+msgstr ""
+
+#: widget.php:85
+msgid "Number of dives to display:"
+msgstr ""
+
+#: widget.php:88
+msgid "Link to DiveBook:"
+msgstr ""
+
+#: diveinputform.php:46
+msgid "You must "
+msgstr ""
+
+#: diveinputform.php:46
+msgid "log in"
+msgstr ""
+
+#: diveinputform.php:46
+msgid " to be able to log dives."
+msgstr ""
+
+#: diveinputform.php:49
+msgid "It is easy to "
+msgstr ""
+
+#: diveinputform.php:49
+msgid "register"
+msgstr ""
+
+#: diveinputform.php:49
+msgid " as a user."
+msgstr ""
+
+#: diveinputform.php:116
+msgid "Add a new dive"
+msgstr ""
+
+#: diveinputform.php:124
+msgid "Log a Dive"
+msgstr ""
+
+#: diveinputform.php:131
+msgid "Diver *"
+msgstr ""
+
+#: diveinputform.php:146
+msgid "Date *"
+msgstr ""
+
+#: diveinputform.php:152
+msgid "Dive site *"
+msgstr ""
+
+#: diveinputform.php:160
+msgid "Max depth (in meters) *"
+msgstr ""
+
+#: diveinputform.php:163
+msgid "Dive time (in minutes) *"
+msgstr ""
+
+#: diveinputform.php:203
+msgid "Log Dive"
+msgstr ""
+
+#: diveinputform.php:203
+msgid "Edit dive"
+msgstr ""
+
+#: diveinputform.php:203
+msgid "Cancel"
+msgstr ""
